@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="header">
       <div className="header__logo">
-        Municipality of Jagna
+        Municipality of HELOOOOOOO
       </div>
 
       <nav className="header__nav">
